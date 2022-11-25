@@ -1,0 +1,37 @@
+#memberForm {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.tdCenter {
+	text-align: center;
+}
+
+.hp {
+	width: 80px;
+}
+
+table img, table input {
+	vertical-align: middle;
+}
+
+th {
+	background-color: #eeeeee;
+}
+
+table {
+	width: 800px;
+}
